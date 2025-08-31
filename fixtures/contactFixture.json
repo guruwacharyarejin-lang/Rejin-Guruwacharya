@@ -1,0 +1,14 @@
+{
+    "contacts":{
+    "firstname": "John",
+    "Lastname": "Doe",
+    "dateOfBirth": "1990-01-01",
+    "email": "johndoe@gmail.com",
+        "phone": "123-456-7890",
+       "address": "address1",
+       "address2": "address2",
+        "city": "City1",
+        "state": "State1",
+        "postalcode": "12345",
+        "country": "Country1"
+}}
